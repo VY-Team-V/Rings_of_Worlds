@@ -1,0 +1,93 @@
+{
+  "item.ringsofworlds.standart_ring": "Base Ring",
+  "item.ringsofworlds.standart_ring.desc": "Standard ring, used in crafting",
+  "item.ringsofworlds.standart_ring.shift_hint": "Press <Shift> for more information",
+
+  "item.ringsofworlds.overworld_ring": "Overworld Ring",
+  "item.ringsofworlds.overworld_ring.desc": "A magical ring that can teleport you to saved coordinates in the Overworld.",
+  "item.ringsofworlds.overworld_ring.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.overworld_ring.usage": "Usage:",
+  "item.ringsofworlds.overworld_ring.set_tp": "Set teleport point",
+  "item.ringsofworlds.overworld_ring.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.overworld_ring_2": "Overworld Ring 2",
+  "item.ringsofworlds.overworld_ring_2.desc": "A magical ring that can teleport you to saved coordinates in the Overworld, but can only set TP points in the Overworld and teleport from Overworld and Nether.",
+  "item.ringsofworlds.overworld_ring_2.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.overworld_ring_2.usage": "Usage:",
+  "item.ringsofworlds.overworld_ring_2.set_tp": "Set teleport point",
+  "item.ringsofworlds.overworld_ring_2.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.overworld_ring_3": "Overworld Ring 3",
+  "item.ringsofworlds.overworld_ring_3.desc": "A magical ring that can teleport you to saved coordinates in the Overworld, but can only set TP points in the Overworld and teleport from any dimension.",
+  "item.ringsofworlds.overworld_ring_3.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.overworld_ring_3.usage": "Usage:",
+  "item.ringsofworlds.overworld_ring_3.set_tp": "Set teleport point",
+  "item.ringsofworlds.overworld_ring_3.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.nether_ring": "Nether Ring",
+  "item.ringsofworlds.nether_ring.desc": "A magical ring that can teleport you to saved coordinates in the Nether.",
+  "item.ringsofworlds.nether_ring.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.nether_ring.usage": "Usage:",
+  "item.ringsofworlds.nether_ring.set_tp": "Set teleport point",
+  "item.ringsofworlds.nether_ring.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.nether_ring_2": "Nether Ring 2",
+  "item.ringsofworlds.nether_ring_2.desc": "A magical ring that can teleport you to saved coordinates in the Nether, but can only set TP points in the Nether and teleport from Nether and Overworld.",
+  "item.ringsofworlds.nether_ring_2.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.nether_ring_2.usage": "Usage:",
+  "item.ringsofworlds.nether_ring_2.set_tp": "Set teleport point",
+  "item.ringsofworlds.nether_ring_2.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.nether_ring_3": "Nether Ring 3",
+  "item.ringsofworlds.nether_ring_3.desc": "A magical ring that can teleport you to saved coordinates in the Nether, but can only set TP points in the Nether and teleport from any dimension.",
+  "item.ringsofworlds.nether_ring_3.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.nether_ring_3.usage": "Usage:",
+  "item.ringsofworlds.nether_ring_3.set_tp": "Set teleport point",
+  "item.ringsofworlds.nether_ring_3.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.ender_ring": "Ender Ring",
+  "item.ringsofworlds.ender_ring.desc": "A magical ring that can teleport you to saved coordinates in the End.",
+  "item.ringsofworlds.ender_ring.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.ender_ring.usage": "Usage:",
+  "item.ringsofworlds.ender_ring.set_tp": "Set teleport point",
+  "item.ringsofworlds.ender_ring.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.ender_ring_2": "End Ring 2",
+  "item.ringsofworlds.ender_ring_2.desc": "A magical ring that can teleport you to saved coordinates in the End, but can only set TP points in the End and teleport from End and Overworld.",
+  "item.ringsofworlds.ender_ring_2.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.ender_ring_2.usage": "Usage:",
+  "item.ringsofworlds.ender_ring_2.set_tp": "Set teleport point",
+  "item.ringsofworlds.ender_ring_2.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.ender_ring_3": "Ender Ring 3",
+  "item.ringsofworlds.ender_ring_3.desc": "A magical ring that can teleport you to saved coordinates in the End, but can only set TP points in the End and teleport from any dimension.",
+  "item.ringsofworlds.ender_ring_3.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.ender_ring_3.usage": "Usage:",
+  "item.ringsofworlds.ender_ring_3.set_tp": "Set teleport point",
+  "item.ringsofworlds.ender_ring_3.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.ultimate_ring": "Ultimate Ring",
+  "item.ringsofworlds.ultimate_ring.desc": "A magical ring that can teleport you to saved coordinates in any dimension, and can set TP points in any dimension.",
+  "item.ringsofworlds.ultimate_ring.shift_hint": "Hold <Shift> for more information.",
+  "item.ringsofworlds.ultimate_ring.usage": "Usage:",
+  "item.ringsofworlds.ultimate_ring.set_tp": "Set teleport point",
+  "item.ringsofworlds.ultimate_ring.teleport": "Teleport to saved coordinates",
+
+  "item.ringsofworlds.steel_ingot": "Steel Ingot",
+  "item.ringsofworlds.steel_nugget": "Steel Nugget",
+  "block.ringsofworlds.steel_block": "Block of Steel",
+
+  "block.ringsofworlds.absintium_block": "Block of Absintium",
+  "block.ringsofworlds.absintium_ore": "Absintium Ore",
+  "block.ringsofworlds.deepslate_absintium_ore": "Deepslate Absintium Ore",
+  "block.ringsofworlds.raw_absintium_block": "Block of Raw Absintium",
+  "item.ringsofworlds.absintium_ingot": "Absintium Ingot",
+  "item.ringsofworlds.absintium_nugget": "Absintium Nugget",
+  "item.ringsofworlds.raw_absintium": "Raw Absintium",
+
+  "item.ringsofworlds.interdimensional_shard": "Interdimensional Shard",
+
+  "creativetab.ringsofworlds_tab": "Rings Of Worlds",
+  "creativetab.ringsofworlds_steel_tab": "RoW Steel",
+  "creativetab.ringsofworlds_absintium_tab": "RoW Absintium"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OAO",
+    "KDK",
+    "OKO"
+  ],
+  "key": {
+    "O": {
+      "item": "ringsofworlds:interdimensional_shard"
+    },
+    "A": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "D": {
+      "item": "ringsofworlds:standart_ring"
+    },
+    "K": {
+      "item": "minecraft:end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:ender_ring",
+    "count": 1
+  }
+}

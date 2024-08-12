@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OAO",
+    "KDK",
+    "OKO"
+  ],
+  "key": {
+    "O": {
+      "item": "ringsofworlds:interdimensional_shard"
+    },
+    "A": {
+      "item": "ringsofworlds:absintium_ingot"
+    },
+    "D": {
+      "item": "ringsofworlds:standart_ring"
+    },
+    "K": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:overworld_ring",
+    "count": 1
+  }
+}

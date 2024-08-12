@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KKK",
+    "HDH",
+    "KHK"
+  ],
+  "key": {
+    "D": {
+      "item": "ringsofworlds:nether_ring_2"
+    },
+    "K": {
+      "item": "minecraft:gold_ingot"
+    },
+    "H": {
+      "item": "ringsofworlds:interdimensional_shard"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:nether_ring_3",
+    "count": 1
+  }
+}

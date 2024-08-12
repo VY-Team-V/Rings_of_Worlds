@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ringsofworlds:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:steel_ingot"
+  }
+}

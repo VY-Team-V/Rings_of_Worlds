@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JCJ",
+    "ADB",
+    "KKK"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:nether_star"
+    },
+    "K": {
+      "item": "ringsofworlds:interdimensional_shard"
+    },
+    "A": {
+      "item": "ringsofworlds:overworld_ring_3"
+    },
+    "B": {
+      "item": "ringsofworlds:nether_ring_3"
+    },
+    "C": {
+      "item": "ringsofworlds:ender_ring_3"
+    },
+    "J": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:ultimate_ring",
+    "count": 1
+  }
+}

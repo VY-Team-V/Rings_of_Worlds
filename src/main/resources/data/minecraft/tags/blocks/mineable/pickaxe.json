@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ringsofworlds:steel_block",
+    "ringsofworlds:absintium_block",
+    "ringsofworlds:raw_absintium_block",
+    "ringsofworlds:absintium_ore",
+    "ringsofworlds:deepslate_absintium_ore"
+  ]
+}

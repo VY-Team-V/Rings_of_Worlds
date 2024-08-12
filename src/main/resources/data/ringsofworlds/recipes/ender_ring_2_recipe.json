@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KHK",
+    "HDH",
+    "OXP"
+  ],
+  "key": {
+    "O": {
+      "item": "ringsofworlds:absintium_ingot"
+    },
+    "D": {
+      "item": "ringsofworlds:ender_ring"
+    },
+    "K": {
+      "item": "ringsofworlds:interdimensional_shard"
+    },
+    "H": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "P": {
+      "item": "ringsofworlds:steel_ingot"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "ringsofworlds:ender_ring_2",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "ringsofworlds:raw_absintium_block"
+  },
+  "result": "ringsofworlds:absintium_block",
+  "experience": 0.1,
+  "cookingtime": 100
+}

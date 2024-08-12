@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ringsofworlds:absintium_block"
+    }
+  ],
+  "result": {
+    "item": "ringsofworlds:absintium_ingot",
+    "count": 9
+  }
+}

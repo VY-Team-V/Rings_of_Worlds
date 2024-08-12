@@ -1,0 +1,4 @@
+// 1.20.1	2024-08-11T15:24:45.0764704	Registries
+785fcef10d460f0da36876abc96c9468ebfb5d1e data/ringsofworlds/forge/biome_modifier/add_absintium_ore.json
+63c9f9a5c4b964f8de0807eec20256260154709a data/ringsofworlds/worldgen/configured_feature/absintium_ore.json
+7a3a581aa9224f17da70b700b240b3cdeb0b59b5 data/ringsofworlds/worldgen/placed_feature/absintium_ore_placed.json
